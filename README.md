@@ -15,6 +15,5 @@ Este proyecto demuestra la implementación de analítica web end-to-end para el 
 * Embudo de Conversión (Visitas vs. Clics de compra).
 
 ## 📸 Vista Previa del Dashboard
-*(Arrastra y suelta tu imagen justo debajo de esta línea)*
 
 <img width="1029" height="1016" alt="image" src="https://github.com/user-attachments/assets/c0d3256a-3ce9-4d11-b64c-16e279d74b82" />
